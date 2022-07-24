@@ -1,9 +1,3 @@
-h1 {
-  color: blue;
-}
-h1.hover {
-  color: red;
-}
-h1 .test {
-  color: black;
+.bg-green {
+  background-color: #19964B;
 }/*# sourceMappingURL=style.css.map */
