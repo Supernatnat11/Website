@@ -1,3 +1,12 @@
 .bg-green {
   background-color: #19964B;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.main-title {
+  size: 100pt;
+  margin-top: 100pt;
 }/*# sourceMappingURL=style.css.map */
