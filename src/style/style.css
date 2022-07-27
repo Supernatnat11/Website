@@ -7,6 +7,11 @@
 }
 
 .main-title {
-  size: 100pt;
-  margin-top: 100pt;
+  size: 10pt;
+}
+
+/*FONT*/
+@font-face {
+  font-family: Anton;
+  src: url(/src/fonts/Anton-Regular.ttf);
 }/*# sourceMappingURL=style.css.map */

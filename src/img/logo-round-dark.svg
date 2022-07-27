@@ -8,9 +8,10 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="logo v2.svg"
+   sodipodi:docname="logo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -113,11 +114,26 @@
          stdDeviation="0.23970127"
          id="feGaussianBlur28822" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient16911"
+       id="linearGradient2972"
+       x1="-2.2125001"
+       y1="256"
+       x2="514.21252"
+       y2="256"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2972);stroke-width:10;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path920"
+       cx="256"
+       cy="256"
+       r="251" />
     <text
        xml:space="preserve"
        id="text1483-2-5"
@@ -125,7 +141,7 @@
        transform="matrix(7.02153,0,0,6.9726757,-987.25336,-1316.9479)"><tspan
          x="147.33008"
          y="245.45602"
-         id="tspan955">&lt;S/&gt;</tspan></text>
+         id="tspan3235">&lt;S/&gt;</tspan></text>
     <text
        xml:space="preserve"
        id="text1483-2"
@@ -133,7 +149,7 @@
        transform="matrix(7.02153,0,0,6.9726757,-1001.5021,-1331.2474)"><tspan
          x="147.33008"
          y="245.45602"
-         id="tspan957">&lt;S/&gt;</tspan></text>
+         id="tspan3237">&lt;S/&gt;</tspan></text>
     <text
        xml:space="preserve"
        id="text1483"
@@ -141,7 +157,7 @@
        transform="matrix(7.02153,0,0,6.9726757,-1015.7509,-1359.8462)"><tspan
          x="147.33008"
          y="245.45602"
-         id="tspan959">&lt;S/&gt;</tspan></text>
+         id="tspan3239">&lt;S/&gt;</tspan></text>
     <script
        id="mesh_polyfill-8"
        type="text/javascript">
