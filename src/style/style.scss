@@ -7,12 +7,37 @@
 }
 .main-title {
     size: 10pt;
+    padding-top: 50pt;
+    padding-bottom: 50pt;
 }
 
+.main-para-left {
+    size: 10pt;
+    margin-left: 2%;
+    margin-right: 50%;
+    padding: 0.5%;
+    border: 1pt;
+    border-style: solid;
+    border-radius: 25px;
+}
 
-/*FONT*/
+.subtitle-left {
+    size: 20pt;
+    padding-left: 5%;
+}
 
-@font-face {
-    font-family: Anton;
-    src: url(/src/fonts/Anton-Regular.ttf);
+.main-para-right {
+    size: 10pt;
+    margin-right: 2%;
+    margin-left: 50%;
+    text-align: right;
+    padding: 0.5%;
+    border: 1pt;
+    border-style: solid;
+    border-radius: 25px;
+}
+.subtitle-right {
+    size: 20pt;
+    padding-right: 5%;
+    text-align: right;
 }
